@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "7db0",
+      "title": "title",
+      "body": "body"
+    },
+    {
+      "id": "6627",
+      "title": "ㅁ",
+      "body": "ㄴ"
+    },
+    {
+      "id": "3da5",
+      "title": "title",
+      "body": "body"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
